@@ -12,7 +12,7 @@ for (let i = 0; i < musicians.length && i < instruments.length; i++ ){
 function  johnLennonFacts(array) {
   let counter = 0
  while(counter < array.length) {
-   array.each(x).join("!!!")
+   array.each.join("!!!")
    counter += 1
  }
  return array
