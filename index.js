@@ -2,8 +2,6 @@
 
 function  theBeatlesPlay(musicians, instruments) {
   var newArray = []
-  let musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"]
-  let instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"]
 for (let i = 0; i < musicians.length && i < instruments.length; i++ ){
   newArray.push(`${musicians[i]} plays ${instruments[i]}`)
 }
