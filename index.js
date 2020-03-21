@@ -10,17 +10,12 @@ for (let i = 0; i < musicians.length && i < instruments.length; i++ ){
 
 
 function  johnLennonFacts(array) {
+  let counter = 0
  while(counter < array.length) {
-   array.each(x) x.join("!!!")
+   array.each(x).join("!!!")
    counter += 1
  }
  return array
-}
-let num = 1
-
-while (num < 6) {
-  console.log(num)
-  num += 1
 }
 
 * Use a while loop to loop over the facts array and add `"!!!"` to the end of
