@@ -18,10 +18,6 @@ function  johnLennonFacts(array) {
  return array
 }
 
-* Use a while loop to loop over the facts array and add `"!!!"` to the end of
-every fact.
-* Return an array of strings with exclamation points.
-
 
 
 function iLoveTheBeatles() {
