@@ -17,7 +17,7 @@ function  johnLennonFacts(array) {
  return array
 }
 let num = 1
- 
+
 while (num < 6) {
   console.log(num)
   num += 1
